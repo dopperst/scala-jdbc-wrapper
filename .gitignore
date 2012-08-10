@@ -1,4 +1,19 @@
 #################
+## Project-Specific
+#################
+
+target/
+
+
+#################
+## Project-Specific
+#################
+
+*.sublime-project
+*.sublime-workspace
+
+
+#################
 ## Eclipse
 #################
 
